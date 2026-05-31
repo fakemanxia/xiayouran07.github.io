@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: xiayouran07 # the website title (if blank, full name will be used instead)
+title: Youran Xia # the website title (if blank, full name will be used instead)
 first_name: Youran
 middle_name: 
 last_name: Xia
@@ -659,14 +659,10 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - work
   - education
   - publications
   - projects
-  - volunteer
   - awards
   - certificates
   - skills
-  - languages
-  - interests
-  - references
+
